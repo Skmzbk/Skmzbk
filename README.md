@@ -12,7 +12,7 @@
 <img alt="CrocoBlink" src="https://github.com/Skmzbk/Skmzbk/blob/main/Assets/Blink.gif?raw=true" align="right" width="400" height="400"/>
 
 
-### 🐊 &nbsp;Welcome to my Github
+### 🐊 &nbsp;Welcome to my Github<hr>
 
 🚀 &nbsp;Feel free to explore\
 🎮 &nbsp;Run and play my games and projects\
@@ -21,15 +21,39 @@
 📄 &nbsp;[Resume](https://drive.google.com/file/d/1uaO4Le6Fil2LkdqPHJFeU1aEV3Hlbc1c/view?usp=sharing)
 
 
-### 🛠 &nbsp;My Tools
+### 🛠 &nbsp;My Tools<hr>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visualstudio-purple)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?logo=unrealengine
+)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-blue?logo=blender
+)&nbsp;
+![Maya](https://img.shields.io/badge/Maya-white?logo=autodeskmaya)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![C#](https://img.shields.io/badge/C%23-purple
+)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Jupiter Notebook](https://img.shields.io/badge/Jupiter%20Notebook-black?logo=jupyter
+)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-green
+)&nbsp;
+![Power Bi](https://img.shields.io/badge/Power%20Bi-orange
+)&nbsp;
+![Tableu](https://img.shields.io/badge/Tableu-blue
+)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-black?logo=davinciresolve
+)&nbsp;
+![Premiere](https://img.shields.io/badge/Premiere-purple
+)&nbsp;
+![After Efects](https://img.shields.io/badge/After%20Effects-purple)&nbsp;
+![Audition](https://img.shields.io/badge/Audition-lightblue
+)&nbsp;
+![Illustrator](https://img.shields.io/badge/Ilustrator-darkorange
+)&nbsp;
+![Photoshop](https://img.shields.io/badge/photoshop-blue
+)&nbsp;
