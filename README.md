@@ -38,6 +38,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Jupiter Notebook](https://img.shields.io/badge/Jupiter%20Notebook-black?logo=jupyter
 )&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas
+)&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-green
 )&nbsp;
 ![Power Bi](https://img.shields.io/badge/Power%20Bi-orange
