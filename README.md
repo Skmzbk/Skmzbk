@@ -46,6 +46,10 @@
 )&nbsp;
 ![Tableu](https://img.shields.io/badge/Tableu-blue
 )&nbsp;
+![Azure](https://img.shields.io/badge/Azure-blue
+)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-orange
+)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-black?logo=davinciresolve
