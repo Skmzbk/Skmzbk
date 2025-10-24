@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there <img width="30px" src="https://github.com/Skmzbk/Skmzbk/blob/main/Assets/Hi.gif"> I'm Mike</h1>
-<h3 font-size="20" align="center">Designer| Editor| Game Developer| Creative Technologist| Content Creator</h3>
+<h3 font-size="20" align="center"> Game Developer| Data Analist| Content Creator</h3>
 
 <p align="center">
 <a href="www.linkedin.com/in/mcastro-mangel" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Skmzbk"/></a>
