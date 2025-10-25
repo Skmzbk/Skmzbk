@@ -18,7 +18,7 @@
 🎮 &nbsp;Run and play my games and projects\
 🎲 &nbsp;Hope you have fun\
 ✉️ &nbsp;Contact me at mcastro.mangel@gmail.com\
-📄 &nbsp;[Resume](https://drive.google.com/file/d/1g6Mz6Q-u8mO-aMg45v5WYGXui_31lVi4/view?usp=sharing)
+📄 &nbsp;[Resume](https://skmzbk.github.io/MiguelMorales.github.io/assets/cv.pdf)
 
 
 ### 🛠 &nbsp;My Tools<hr>
